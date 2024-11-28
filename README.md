@@ -1,5 +1,5 @@
 
-Atualmente fazendo SIS (Sistema da Informação) na faculdade SPTECH (São Paulo Tech School) no primeiro semestre<br>
+Atualmente fazendo SIS (Sistema da Informação) na faculdade SPTECH (São Paulo Tech School) no Segundo semestre<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=KaueASouza&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=KaueASouza&theme=dark&hide_border=false)
